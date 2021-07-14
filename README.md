@@ -1,0 +1,2 @@
+# SEUCC
+Website for SEUCC
